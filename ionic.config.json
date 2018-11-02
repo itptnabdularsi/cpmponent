@@ -1,0 +1,8 @@
+{
+  "name": "cpmponent1-app-41",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
